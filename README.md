@@ -10,7 +10,7 @@
     * [-s , --save](#s)  
     * [-fr , --frame_rate](#fr)  
     * [-fmpg , --ffmpeg](#fmpg)  
-    * [ytdl , --youtube_dl](#ytdl)
+    * [-ytdl , --youtube_dl](#ytdl)
 
 ## <a name="introduction">Introduction
 
