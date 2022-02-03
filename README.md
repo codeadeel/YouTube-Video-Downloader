@@ -50,7 +50,7 @@ Displays the help message including input arguments by executing `downloader.py 
 ##### <a name="link"></a>-l, --link
 HTTPS link to YouTube video page. Highlighted example is also given below:
 
-![YouTube Lik Example][YouTube HTTP Example]
+![YouTube Link Example][YouTube HTTP Example]
 
 ##### <a name="qc"></a>-qc, --quality_check
 Its a boolean flag. If this flag is active, the script only shows the available qualities or resolutions of the video to download, without downloading the video itself. From viewing flags manually, we can capture quality ID which than can be given to `-q , --quality` argument of `downloader.py`. For example, execution of following command:
