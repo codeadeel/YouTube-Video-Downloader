@@ -3,7 +3,7 @@
 * [**Introduction**](#introduction)  
 * [**Basic Usage**](#bu)  
 * [**Arguments**](#arguments)  
-    * [-h, --help](#h)  
+    * [-h, --help](#help)  
     * [-l, --link](#link)  
     * [-qc, --quality_check](#qc)  
     * [-q , --quality](#q)  
