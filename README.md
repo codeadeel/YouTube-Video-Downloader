@@ -1,6 +1,7 @@
 # YouTube Video Downloader
 
 * [**Introduction**](#introduction)  
+* [**Setup**](#setup)  
 * [**Basic Usage**](#bu)  
 * [**Arguments**](#arguments)  
     * [-h, --help](#help)  
@@ -31,6 +32,14 @@ optional arguments:
   -fmpg , --ffmpeg      Absolute Address to Standalone FFMPEG File
   -ytdl , --youtube_dl  Absolute Address to Standalone youtube-dl File
 ```
+## <a name="setup">Setup
+Before cloning the repository, please setup environment as following:
+
+```bash
+sudo apt-get install git-lfs
+sudo ln -s /usr/bin/python3 /usr/bin/python
+```
+
 ## <a name="bu">Basic Usage
 
 The following command can be used to quickly download video from YouTube, subject to default available quality & settings.
